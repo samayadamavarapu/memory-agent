@@ -3,7 +3,7 @@
 
 This project provides an example of a chat agent that can store and reuse long-term conversational memories. All memories are linked to a configurable `user_id`, allowing the agent to build up and apply user-specific context across conversation threads.
 
-![Memory Diagram](./static/memory_graph.png)
+
 
 ## Getting Started
 
